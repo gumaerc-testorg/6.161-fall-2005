@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 02c90bd8-cba7-ab07-8918-5d4ad082f845
 ---
@@ -307,7 +309,7 @@ Problem set 7 out
 {{< tdopen >}}
 _Begin Lab 5  
   
-_Electro-optic and Acousto-optic Light Modulation Cells, Photorefraction in a BaTiO3 Crystal
+_Electro-optic and Acousto-optic Light Modulation Cells, Photorefraction in a BaTiO{{< sub "3" >}} Crystal
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -351,7 +353,7 @@ Problem set 7 due
 {{< tdopen >}}
 _Begin Lab 6  
   
-_He-Ne, CO2, Yag:Nd, and Diode Lasers, Longitudinal Modes with Scanning F-P Spectrometer
+_He-Ne, CO{{< sub "2" >}}, Yag:Nd, and Diode Lasers, Longitudinal Modes with Scanning F-P Spectrometer
 {{< tdclose >}}
 {{< tdopen >}}
 
