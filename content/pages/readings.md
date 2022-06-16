@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the textbooks and reading materials
+  for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course overview, course prerequisites, and
+  inforamtion about the course contents such as laboratory exercises, quizzes, homework
+  assignments, projects etc, and course general policies including grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +32,7 @@ Since this is a laboratory course, the intent is not to dwell on detailed theore
 Prerequisites
 -------------
 
-The prerequisite is [6.003](/courses/6-003-signals-and-systems-fall-2011/). Exceptions can be made by the Lecturer.
+The prerequisite is [6.003](/courses/6-003-signals-and-systems-fall-2011). Exceptions can be made by the Lecturer.
 
 Course Content
 --------------
@@ -40,7 +43,7 @@ There are seven short laboratory exercises concerned with the measurement and ob
 
 Some of the laboratory exercises require a considerable amount of setup time, and once they have been taken apart, they will not be set up again. Laboratory exercise reports must be turned in to the Teaching Assistant (TA) one week after the exercise was scheduled. In the event the report is due on a day when the Institute is closed, the report should be turned in to the TA by 5:00 pm on the first day that classes resume whether or not the Laboratory is open on that day. This may be a day when 6.161 does not meet.
 
-Late homework should be placed in the bin outside the professor's office or handed directly to the TA. All laboratory write-ups (along with pre-lab exercises) **must** be done in a carbonless-copy lab notebook. Currently, we will only accept lab write-ups using the Hayden McNeil Physical Sciences Student Lab Notebook with Spiral Binding. There is also a spiral-bound Chemical Sciences version of this notebook, which is acceptable. Students must turn in the yellow copies and keep the blue copies for themselves and for reference. Blue copies are **never** to be removed from the lab notebook. Plots, tables and graphs must be pasted onto both the blue and yellow copy. More information as to laboratory write-up specifics is available in the [labs]({{< baseurl >}}/pages/labs) section.
+Late homework should be placed in the bin outside the professor's office or handed directly to the TA. All laboratory write-ups (along with pre-lab exercises) **must** be done in a carbonless-copy lab notebook. Currently, we will only accept lab write-ups using the Hayden McNeil Physical Sciences Student Lab Notebook with Spiral Binding. There is also a spiral-bound Chemical Sciences version of this notebook, which is acceptable. Students must turn in the yellow copies and keep the blue copies for themselves and for reference. Blue copies are **never** to be removed from the lab notebook. Plots, tables and graphs must be pasted onto both the blue and yellow copy. More information as to laboratory write-up specifics is available in the {{% resource_link d3c29960-6296-d4d8-a06d-4cc475c07e1e "labs" %}} section.
 
 ### Homework Problems
 
