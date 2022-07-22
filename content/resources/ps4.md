@@ -5,6 +5,7 @@ file: /courses/6-161-modern-optics-project-laboratory-fall-2005/50191a338f069724
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4.pdf
 uid: 50191a33-8f06-9724-1154-9df7fb0c5fb4
 ---
 This resource provides 4 problems on the topic of diffraction.
-

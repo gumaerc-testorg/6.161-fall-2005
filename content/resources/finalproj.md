@@ -6,6 +6,7 @@ file: /courses/6-161-modern-optics-project-laboratory-fall-2005/c5b52543e7114e86
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: finalproj.pdf
 uid: c5b52543-e711-4e86-fc7b-30db5186508d
 ---
 This resource provides general information about the final project to be done for this course.
-
