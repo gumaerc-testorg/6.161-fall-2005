@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the safety precautions to be taken
+  when in lab, laboratory assignments, and laboratory writeup templates.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: d3c29960-6296-d4d8-a06d-4cc475c07e1e
 ---
@@ -67,7 +72,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Safety, Polarization States of Optical Waves, Dielectric Reflection and Geometric Optics ([PDF]({{< baseurl >}}/resources/lab1))
+Safety, Polarization States of Optical Waves, Dielectric Reflection and Geometric Optics ({{% resource_link c015ed67-efd0-9742-d8a4-a6a0701578d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Safety, Polarization States of Optical Waves, Dielectric Reflection and Geometri
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Coherence and Interferometry ([PDF]({{< baseurl >}}/resources/lab2))
+Coherence and Interferometry ({{% resource_link 4ab23c6e-32bf-1d74-bcb8-4b86e913b2c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Coherence and Interferometry ([PDF]({{< baseurl >}}/resources/lab2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Diffraction ([PDF]({{< baseurl >}}/resources/lab3))
+Diffraction ({{% resource_link bc5caa8e-8779-2f58-686c-d23213238bc8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Diffraction ([PDF]({{< baseurl >}}/resources/lab3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Holography ([PDF]({{< baseurl >}}/resources/lab4))
+Holography ({{% resource_link 1166ad9b-95ee-2732-c5a3-60d2c7915234 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Holography ([PDF]({{< baseurl >}}/resources/lab4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Electro-optic, Acousto-optic and Photorefractive Light Modulation ([PDF]({{< baseurl >}}/resources/lab5))
+Electro-optic, Acousto-optic and Photorefractive Light Modulation ({{% resource_link da438eae-81ff-4770-65b2-794477810397 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Electro-optic, Acousto-optic and Photorefractive Light Modulation ([PDF]({{< bas
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Solid-State and Gas Lasers ([PDF]({{< baseurl >}}/resources/lab6))
+Solid-State and Gas Lasers ({{% resource_link 21c48e31-b7bb-3316-6715-6f94c926f6b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ Solid-State and Gas Lasers ([PDF]({{< baseurl >}}/resources/lab6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Waveguides and Fibers ([PDF]({{< baseurl >}}/resources/lab7))
+Optical Waveguides and Fibers ({{% resource_link 862b690e-b7d6-38cd-6dd5-a063942902af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

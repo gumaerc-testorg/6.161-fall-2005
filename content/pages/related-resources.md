@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides links for extra reading for the course. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 4b70d6c7-5362-ec1a-9749-eba6b31f9f1c
 ---

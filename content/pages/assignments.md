@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains the course assignment topics and their related
+  files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 195b81d6-6ee4-d318-e507-300d10636b36
 ---
@@ -22,7 +27,7 @@ TOPICS
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Electromagnetic Wave Phenomena ([PDF]({{< baseurl >}}/resources/ps1))
+Basic Electromagnetic Wave Phenomena ({{% resource_link 9a50d9ad-3132-04b3-f5dd-abfa7211aa64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ Basic Electromagnetic Wave Phenomena ([PDF]({{< baseurl >}}/resources/ps1))
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-Geometric Optics ([PDF]({{< baseurl >}}/resources/ps2))
+Geometric Optics ({{% resource_link 99147215-11bf-b582-0e35-d181ebc73f63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Geometric Optics ([PDF]({{< baseurl >}}/resources/ps2))
 Problem Set 3
 {{< tdclose >}}
 {{< tdopen >}}
-Coherence and Interference ([PDF]({{< baseurl >}}/resources/ps3))
+Coherence and Interference ({{% resource_link a710f983-cb42-7b76-6036-082d7722acb8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ Coherence and Interference ([PDF]({{< baseurl >}}/resources/ps3))
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffraction ([PDF]({{< baseurl >}}/resources/ps4))
+Diffraction ({{% resource_link 50191a33-8f06-9724-1154-9df7fb0c5fb4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Diffraction ([PDF]({{< baseurl >}}/resources/ps4))
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-Holography ([PDF]({{< baseurl >}}/resources/ps5))
+Holography ({{% resource_link 39f55267-5754-a3bf-2b55-626824ca848e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Holography ([PDF]({{< baseurl >}}/resources/ps5))
 Problem Set 6
 {{< tdclose >}}
 {{< tdopen >}}
-Light Modulation ([PDF]({{< baseurl >}}/resources/ps6))
+Light Modulation ({{% resource_link 62d74367-ce95-f584-f7f0-a62a4b37aace "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Light Modulation ([PDF]({{< baseurl >}}/resources/ps6))
 Problem Set 7
 {{< tdclose >}}
 {{< tdopen >}}
-Lasers ([PDF]({{< baseurl >}}/resources/ps7))
+Lasers ({{% resource_link c622eb1f-7feb-8c1b-497b-74f638d7b7dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Lasers ([PDF]({{< baseurl >}}/resources/ps7))
 Problem Set 8
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Waveguides ([PDF]({{< baseurl >}}/resources/ps8))
+Optical Waveguides ({{% resource_link 4defb0a8-b175-374d-1d65-65c6f89e602a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Optical Waveguides ([PDF]({{< baseurl >}}/resources/ps8))
 Problem Set 9
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier Optics ([PDF]({{< baseurl >}}/resources/ps9))
+Fourier Optics ({{% resource_link 58fb784a-f9c6-83e1-30ff-c093fd064f61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
