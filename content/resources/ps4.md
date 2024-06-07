@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides 4 problems on the topic of diffraction.
 file: /courses/6-161-modern-optics-project-laboratory-fall-2005/50191a338f06972411549df7fb0c5fb4_ps4.pdf
+file_size: 123602
 file_type: application/pdf
 learning_resource_types:
 - Assignments
