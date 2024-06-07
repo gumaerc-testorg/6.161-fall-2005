@@ -4,6 +4,7 @@ description: This resource provides the pre-lab exercises for Lab 3 and in-lab e
   on topics such as fraunhofer diffraction, double slit, multiple slits, rectangular
   grid, and rectangular aperture.
 file: /courses/6-161-modern-optics-project-laboratory-fall-2005/bc5caa8e87792f58686cd23213238bc8_lab3.pdf
+file_size: 142922
 file_type: application/pdf
 learning_resource_types:
 - Labs
