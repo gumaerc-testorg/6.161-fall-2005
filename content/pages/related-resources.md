@@ -46,7 +46,6 @@ uid: 4b70d6c7-5362-ec1a-9749-eba6b31f9f1c
 
 ## Optics-Related Publications
 
-- [Advanced Imaging, Solutions for the Electronic Imaging Professional](http://www.advancedimagingmag.com/)
 - [Biophotonics International](http://www.photonics.com/bio/)
 - [Design News](http://www.designnews.com/)
 - [Europhotonics](http://www.europhotonics.org/wordpress/)
@@ -63,8 +62,6 @@ uid: 4b70d6c7-5362-ec1a-9749-eba6b31f9f1c
 - [Physics World](http://www.iop.org/)
 - [Sensors](https://www.fierceelectronics.com/sensors)
 - [Solid State Technology, The International Magazine for Semiconductor Manufacturing](https://solid-state.com/)
-- [Vision Systems Design](http://vsd.pennnet.com/)
-- [Vision Systems Design, Imaging and Vision Technologies for Engineers and Integrators](http://vsd.pennnet.com/)
 - [Optics.Org - Journal Search](http://optics.org/)
 - [Optics Express](http://www.opticsexpress.org/Issue.cfm)
 - [Pure and Applied Optics (1992-1998)](https://iopscience.iop.org/journal/0963-9659)
