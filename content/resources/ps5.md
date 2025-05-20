@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides 3 problems on the topic of holography.
-file: /ol-ocw-studio-app/courses/6-161-modern-optics-project-laboratory-fall-2005/39f552675754a3bf2b55626824ca848e_ps5.pdf
+file: /courses/6-161-modern-optics-project-laboratory-fall-2005/39f552675754a3bf2b55626824ca848e_ps5.pdf
 file_size: 150135
 file_type: application/pdf
 learning_resource_types:
