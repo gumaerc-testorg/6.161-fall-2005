@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides 3 problems on the topic of geometric optics.
-file: /ol-ocw-studio-app/courses/6-161-modern-optics-project-laboratory-fall-2005/9914721511bfb5820e35d181ebc73f63_ps2.pdf
+file: /courses/6-161-modern-optics-project-laboratory-fall-2005/9914721511bfb5820e35d181ebc73f63_ps2.pdf
 file_size: 121258
 file_type: application/pdf
 learning_resource_types:
