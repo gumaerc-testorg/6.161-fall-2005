@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides general information about the final project to
   be done for this course.
-file: /ol-ocw-studio-app/courses/6-161-modern-optics-project-laboratory-fall-2005/c5b52543e7114e86fc7b30db5186508d_finalproj.pdf
+file: /courses/6-161-modern-optics-project-laboratory-fall-2005/c5b52543e7114e86fc7b30db5186508d_finalproj.pdf
 file_size: 110878
 file_type: application/pdf
 learning_resource_types:
