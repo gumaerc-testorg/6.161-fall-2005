@@ -4,11 +4,11 @@ description: This resource provides the prelab exercises for lab 1 and contains 
   such as safety, get prepared to start the laboratory exercises and telescope design.
   It also provides the in-lab exercises on topics like linear polarizer, two-polarizer
   diagnostic system, quarter and half wave plates, and magic sheet.
-file: /courses/6-161-modern-optics-project-laboratory-fall-2005/c015ed67efd09742d8a4a6a0701578d4_lab1.pdf
+file: /ol-ocw-studio-app/courses/6-161-modern-optics-project-laboratory-fall-2005/c015ed67efd09742d8a4a6a0701578d4_lab1.pdf
 file_size: 262234
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

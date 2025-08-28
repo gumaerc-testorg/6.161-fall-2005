@@ -4,11 +4,11 @@ description: This resource provides pre-lab exercises on topics such as Michelso
   interferometer considerations, and in-lab exercises on topics such as Mach-Zehnder
   interferometer, flatness measurements, parallelism measurements and Fabry-Perot
   interferometer.
-file: /courses/6-161-modern-optics-project-laboratory-fall-2005/4ab23c6e32bf1d74bcb84b86e913b2c3_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-161-modern-optics-project-laboratory-fall-2005/4ab23c6e32bf1d74bcb84b86e913b2c3_lab2.pdf
 file_size: 309617
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
