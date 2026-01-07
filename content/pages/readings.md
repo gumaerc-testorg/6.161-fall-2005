@@ -34,18 +34,18 @@ We strongly recommend you purchase the book by Hecht. Purchase of the other text
 
 Portions of the material we will cover can also be found scattered throughout a number of journals and conference proceedings that include:
 
-{{% resource_link "0a7eaedc-8c2b-4b66-992d-6bd200df23a1" "Journal of the Optical Society of America" %}}
+[Journal of the Optical Society of America](http://josaa.osa.org/Issue.cfm)
 
-{{% resource_link "32595f06-2731-4ec9-b74b-986e39521916" "Applied Optics" %}}
+[Applied Optics](http://ao.osa.org/Issue.cfm)
 
-{{% resource_link "e24127c2-7e4f-4d6c-b6cd-e42a57a53177" "Optics Letters" %}}
+[Optics Letters](http://ol.osa.org/)
 
-{{% resource_link "8cc185d6-c5cb-4c6d-97d8-2632cdfca652" "Applied Physics Letters" %}}
+[Applied Physics Letters](http://scitation.aip.org/content/aip/journal/apl)
 
-{{% resource_link "f96021ec-5bfc-4293-9971-f2cd3a133886" "Optics Communications" %}}
+[Optics Communications](http://www.elsevier.com/wps/find/journaldescription.cws_home/505711/description#description)
 
-{{% resource_link "9127bbc5-4675-48ca-938d-83f8382050c9" "Optical Engineering" %}}
+[Optical Engineering](http://spie.org/x867.xml)
 
-{{% resource_link "a0dcd580-8913-418d-85b3-54bd00f2b63d" "Proceedings of the Society of Photo-Optical Instrumentation Engineers (SPIE)" %}}
+[Proceedings of the Society of Photo-Optical Instrumentation Engineers (SPIE)](http://spie.org/x1848.xml)
 
 Occasionally, the student will be expected to read and apply material covered in articles selected from these journals.
